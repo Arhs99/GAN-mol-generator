@@ -14,3 +14,5 @@ The following main packages are required:
       pandas:    0.24.2
      sklearn:    0.20.1
        torch:     1.1.0
+
+![plot](https://github.com/Arhs99/GAN-mol-generator/blob/main/data/gan_out_diverse_set_view.png)
