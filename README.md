@@ -15,4 +15,5 @@ The following main packages are required:
      sklearn:    0.20.1
        torch:     1.1.0
 
+## Sample of generated molecules
 ![plot](https://github.com/Arhs99/GAN-mol-generator/blob/main/data/gan_out_diverse_set_view.png)
